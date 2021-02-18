@@ -1,0 +1,16 @@
+Write a terraform script in a module structure to provision below resources
+- VPC
+- Subnet
+- EC2
+- EBS volume and attach to instance
+- EIP
+- Load balancer
+- S3 bucket
+- SNS topic
+- Email subscription to Topic
+
+All these resource should be able to click in one click
+
+2. Create a Jenkins server and configure a jenkins job to execute this terraform template
+
+Once done push this code to repo.
